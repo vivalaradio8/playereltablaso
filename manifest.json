@@ -1,0 +1,32 @@
+{
+  "name": "Radio Mix Solo Éxitos",
+  "short_name": "RadioMix",
+  "description": "Reproductor de Radio con historial de canciones.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#3c3c3c",
+  "theme_color": "#3c3c3c",
+ 
+  "icons": [
+    {
+      "src": "imagenes/app.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "imagenes/app.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "imagenes/app.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "imagenes/app.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
